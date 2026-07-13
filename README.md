@@ -1,4 +1,4 @@
-**Project name**
+**Project name** \n
 Reducing Greenhouse Gas Emissions at Home
 **Short description**
 Teaches users how to reduce GHG emissions in their home by making changes to different rooms in their house, and also tests users on their knowledge after the lesson 
